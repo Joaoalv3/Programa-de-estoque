@@ -1,0 +1,4 @@
+corda,1
+prego,1
+prego 1,1
+prego 12,1
